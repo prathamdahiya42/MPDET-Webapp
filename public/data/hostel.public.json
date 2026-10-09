@@ -1,0 +1,5186 @@
+[
+  {
+    "id": "h001",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "CE",
+    "category": "UR",
+    "air": null,
+    "room": "S-4",
+    "block": "S",
+    "roomNo": "4",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h012"
+    ],
+    "meritKey": null,
+    "maskedName": "Ram S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h002",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "CE",
+    "category": "UR",
+    "air": null,
+    "room": "S-5",
+    "block": "S",
+    "roomNo": "5",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h013"
+    ],
+    "meritKey": null,
+    "maskedName": "Praikshit M.",
+    "publicFlags": []
+  },
+  {
+    "id": "h003",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "CE",
+    "category": "UR",
+    "air": null,
+    "room": "S-6",
+    "block": "S",
+    "roomNo": "6",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h014"
+    ],
+    "meritKey": null,
+    "maskedName": "Arunman S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h004",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "CE",
+    "category": "ST",
+    "air": null,
+    "room": "S-9",
+    "block": "S",
+    "roomNo": "9",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h030"
+    ],
+    "meritKey": null,
+    "maskedName": "Deepak P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h005",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "CE",
+    "category": "SC",
+    "air": null,
+    "room": "S-10",
+    "block": "S",
+    "roomNo": "10",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h018"
+    ],
+    "meritKey": null,
+    "maskedName": "Jayant M.",
+    "publicFlags": []
+  },
+  {
+    "id": "h006",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "CE",
+    "category": "OBC",
+    "air": null,
+    "room": "S-11",
+    "block": "S",
+    "roomNo": "11",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h020"
+    ],
+    "meritKey": null,
+    "maskedName": "Aditya S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h007",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "CE",
+    "category": "OBC",
+    "air": null,
+    "room": "S-12",
+    "block": "S",
+    "roomNo": "12",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h019"
+    ],
+    "meritKey": null,
+    "maskedName": "MD A.",
+    "publicFlags": []
+  },
+  {
+    "id": "h008",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "CE",
+    "category": "EWS",
+    "air": null,
+    "room": "S-13",
+    "block": "S",
+    "roomNo": "13",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h021"
+    ],
+    "meritKey": null,
+    "maskedName": "Ram S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h009",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "CE",
+    "category": "EWS",
+    "air": null,
+    "room": "S-16",
+    "block": "S",
+    "roomNo": "16",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h024"
+    ],
+    "meritKey": null,
+    "maskedName": "Ashutosh M.",
+    "publicFlags": []
+  },
+  {
+    "id": "h010",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "CE",
+    "category": "EWS",
+    "air": null,
+    "room": "S-17",
+    "block": "S",
+    "roomNo": "17",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h026"
+    ],
+    "meritKey": null,
+    "maskedName": "Trivesh T.",
+    "publicFlags": []
+  },
+  {
+    "id": "h011",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "EC",
+    "category": "OBC",
+    "air": null,
+    "room": "S-18",
+    "block": "S",
+    "roomNo": "18",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h027"
+    ],
+    "meritKey": null,
+    "maskedName": "Vanshgopal K.",
+    "publicFlags": []
+  },
+  {
+    "id": "h012",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "EX/EE",
+    "category": "SC",
+    "air": null,
+    "room": "S-4",
+    "block": "S",
+    "roomNo": "4",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h001"
+    ],
+    "meritKey": null,
+    "maskedName": "Prince S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h013",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "EX/EE",
+    "category": "OBC",
+    "air": null,
+    "room": "S-5",
+    "block": "S",
+    "roomNo": "5",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h002"
+    ],
+    "meritKey": null,
+    "maskedName": "Gagan T.",
+    "publicFlags": []
+  },
+  {
+    "id": "h014",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "EX/EE",
+    "category": "OBC",
+    "air": null,
+    "room": "S-6",
+    "block": "S",
+    "roomNo": "6",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h003"
+    ],
+    "meritKey": null,
+    "maskedName": "Ambuj P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h015",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "EX/EE",
+    "category": "OBC",
+    "air": null,
+    "room": "S-7",
+    "block": "S",
+    "roomNo": "7",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h029"
+    ],
+    "meritKey": null,
+    "maskedName": "Anurag P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h016",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "EX/EE",
+    "category": "OBC",
+    "air": null,
+    "room": "S-8",
+    "block": "S",
+    "roomNo": "8",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h028"
+    ],
+    "meritKey": null,
+    "maskedName": "Sudhanshu K.",
+    "publicFlags": []
+  },
+  {
+    "id": "h017",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "EX/EE",
+    "category": "OBC",
+    "air": null,
+    "room": "S-15",
+    "block": "S",
+    "roomNo": "15",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h023"
+    ],
+    "meritKey": null,
+    "maskedName": "Shalendra Y.",
+    "publicFlags": []
+  },
+  {
+    "id": "h018",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "EX/EE",
+    "category": "OBC",
+    "air": null,
+    "room": "S-10",
+    "block": "S",
+    "roomNo": "10",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h005"
+    ],
+    "meritKey": null,
+    "maskedName": "Puneet R.",
+    "publicFlags": []
+  },
+  {
+    "id": "h019",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "EX/EE",
+    "category": "OBC",
+    "air": null,
+    "room": "S-12",
+    "block": "S",
+    "roomNo": "12",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h007"
+    ],
+    "meritKey": null,
+    "maskedName": "Hariom P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h020",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "EX/EE",
+    "category": "EWS",
+    "air": null,
+    "room": "S-11",
+    "block": "S",
+    "roomNo": "11",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h006"
+    ],
+    "meritKey": null,
+    "maskedName": "Harshit C.",
+    "publicFlags": []
+  },
+  {
+    "id": "h021",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "ME",
+    "category": "UR",
+    "air": null,
+    "room": "S-13",
+    "block": "S",
+    "roomNo": "13",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h008"
+    ],
+    "meritKey": null,
+    "maskedName": "Vinay D.",
+    "publicFlags": []
+  },
+  {
+    "id": "h022",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "ME",
+    "category": "SC",
+    "air": null,
+    "room": "S-14",
+    "block": "S",
+    "roomNo": "14",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h025"
+    ],
+    "meritKey": null,
+    "maskedName": "Jeet A.",
+    "publicFlags": []
+  },
+  {
+    "id": "h023",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "ME",
+    "category": "SC",
+    "air": null,
+    "room": "S-15",
+    "block": "S",
+    "roomNo": "15",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h017"
+    ],
+    "meritKey": null,
+    "maskedName": "Narendra A.",
+    "publicFlags": []
+  },
+  {
+    "id": "h024",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "ME",
+    "category": "SC",
+    "air": null,
+    "room": "S-16",
+    "block": "S",
+    "roomNo": "16",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h009"
+    ],
+    "meritKey": null,
+    "maskedName": "Yashvendra A.",
+    "publicFlags": []
+  },
+  {
+    "id": "h025",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "ME",
+    "category": "SC",
+    "air": null,
+    "room": "S-14",
+    "block": "S",
+    "roomNo": "14",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h022"
+    ],
+    "meritKey": null,
+    "maskedName": "Braj A.",
+    "publicFlags": []
+  },
+  {
+    "id": "h026",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "ME",
+    "category": "OBC",
+    "air": null,
+    "room": "S-17",
+    "block": "S",
+    "roomNo": "17",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h010"
+    ],
+    "meritKey": null,
+    "maskedName": "Avanish S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h027",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "ME",
+    "category": "OBC",
+    "air": null,
+    "room": "S-18",
+    "block": "S",
+    "roomNo": "18",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h011"
+    ],
+    "meritKey": null,
+    "maskedName": "Somay P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h028",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "ME",
+    "category": "OBC",
+    "air": null,
+    "room": "S-8",
+    "block": "S",
+    "roomNo": "8",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h016"
+    ],
+    "meritKey": null,
+    "maskedName": "Abhinash J.",
+    "publicFlags": []
+  },
+  {
+    "id": "h029",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "ME",
+    "category": "OBC",
+    "air": null,
+    "room": "S-7",
+    "block": "S",
+    "roomNo": "7",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h015"
+    ],
+    "meritKey": null,
+    "maskedName": "Aman S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h030",
+    "course": "POLYTECHNIC DIPLOMA",
+    "branch": "ME",
+    "category": "OBC",
+    "air": null,
+    "room": "S-9",
+    "block": "S",
+    "roomNo": "9",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h004"
+    ],
+    "meritKey": null,
+    "maskedName": "Divakar K.",
+    "publicFlags": []
+  },
+  {
+    "id": "h031",
+    "course": "MCA",
+    "branch": "",
+    "category": "UR",
+    "air": null,
+    "room": "S-1",
+    "block": "S",
+    "roomNo": "1",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h032"
+    ],
+    "meritKey": null,
+    "maskedName": "Vivek M.",
+    "publicFlags": []
+  },
+  {
+    "id": "h032",
+    "course": "MCA",
+    "branch": "",
+    "category": "UR",
+    "air": null,
+    "room": "S-1",
+    "block": "S",
+    "roomNo": "1",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h031"
+    ],
+    "meritKey": null,
+    "maskedName": "Dev B.",
+    "publicFlags": []
+  },
+  {
+    "id": "h033",
+    "course": "MCA",
+    "branch": "",
+    "category": "UR",
+    "air": null,
+    "room": "S-2",
+    "block": "S",
+    "roomNo": "2",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h034"
+    ],
+    "meritKey": null,
+    "maskedName": "Navadeep T.",
+    "publicFlags": []
+  },
+  {
+    "id": "h034",
+    "course": "MCA",
+    "branch": "",
+    "category": "UR",
+    "air": null,
+    "room": "S-2",
+    "block": "S",
+    "roomNo": "2",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h033"
+    ],
+    "meritKey": null,
+    "maskedName": "Rajat T.",
+    "publicFlags": []
+  },
+  {
+    "id": "h035",
+    "course": "MCA",
+    "branch": "",
+    "category": "OBC",
+    "air": null,
+    "room": "S-3",
+    "block": "S",
+    "roomNo": "3",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h036"
+    ],
+    "meritKey": null,
+    "maskedName": "Meet V.",
+    "publicFlags": []
+  },
+  {
+    "id": "h036",
+    "course": "MCA",
+    "branch": "",
+    "category": "UR",
+    "air": null,
+    "room": "S-3",
+    "block": "S",
+    "roomNo": "3",
+    "college": "UIT",
+    "jkResident": "",
+    "roommateIds": [
+      "h035"
+    ],
+    "meritKey": null,
+    "maskedName": "Prayanshu P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h037",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "UR",
+    "air": 81240,
+    "room": "G-5",
+    "block": "G",
+    "roomNo": "5",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h276"
+    ],
+    "meritKey": "260310807430",
+    "maskedName": "Akshit C.",
+    "publicFlags": []
+  },
+  {
+    "id": "h038",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "OBC",
+    "air": 82447,
+    "room": "G-6",
+    "block": "G",
+    "roomNo": "6",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h277"
+    ],
+    "meritKey": "260311053969",
+    "maskedName": "Anurag T.",
+    "publicFlags": []
+  },
+  {
+    "id": "h039",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "OBC",
+    "air": 85269,
+    "room": "G-7",
+    "block": "G",
+    "roomNo": "7",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h278"
+    ],
+    "meritKey": "260310092231",
+    "maskedName": "Pranay T.",
+    "publicFlags": []
+  },
+  {
+    "id": "h040",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "UR",
+    "air": 85520,
+    "room": "G-8",
+    "block": "G",
+    "roomNo": "8",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h279"
+    ],
+    "meritKey": "260310782676",
+    "maskedName": "Priyanshu A.",
+    "publicFlags": []
+  },
+  {
+    "id": "h041",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "UR",
+    "air": 92107,
+    "room": "G-9",
+    "block": "G",
+    "roomNo": "9",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h280"
+    ],
+    "meritKey": "260310174951",
+    "maskedName": "Chandrashekhar S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h042",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "OBC",
+    "air": 99000,
+    "room": "G-10",
+    "block": "G",
+    "roomNo": "10",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h281"
+    ],
+    "meritKey": "260310739641",
+    "maskedName": "Pradumn A.",
+    "publicFlags": []
+  },
+  {
+    "id": "h043",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "UR",
+    "air": 111746,
+    "room": "G-11",
+    "block": "G",
+    "roomNo": "11",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h282"
+    ],
+    "meritKey": "260310461952",
+    "maskedName": "Parv S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h044",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "OBC",
+    "air": 112046,
+    "room": "G-12",
+    "block": "G",
+    "roomNo": "12",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h283"
+    ],
+    "meritKey": null,
+    "maskedName": "Amit R.",
+    "publicFlags": []
+  },
+  {
+    "id": "h045",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "UR",
+    "air": 113521,
+    "room": "G-13",
+    "block": "G",
+    "roomNo": "13",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h284"
+    ],
+    "meritKey": "260310363998",
+    "maskedName": "Prakhar S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h046",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "OBC",
+    "air": 117583,
+    "room": "G-14",
+    "block": "G",
+    "roomNo": "14",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h285"
+    ],
+    "meritKey": "260311140615",
+    "maskedName": "Shikhar G.",
+    "publicFlags": []
+  },
+  {
+    "id": "h047",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "OBC",
+    "air": 119415,
+    "room": "G-15",
+    "block": "G",
+    "roomNo": "15",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h286"
+    ],
+    "meritKey": "260310149196",
+    "maskedName": "Shankey R.",
+    "publicFlags": []
+  },
+  {
+    "id": "h048",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "OBC",
+    "air": 120248,
+    "room": "G-16",
+    "block": "G",
+    "roomNo": "16",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h287"
+    ],
+    "meritKey": "260310235406",
+    "maskedName": "Abhijeet J.",
+    "publicFlags": []
+  },
+  {
+    "id": "h049",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "OBC",
+    "air": 125801,
+    "room": "G-17",
+    "block": "G",
+    "roomNo": "17",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h288"
+    ],
+    "meritKey": "260310411006",
+    "maskedName": "Ayush S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h050",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "OBC",
+    "air": 127507,
+    "room": "G-18",
+    "block": "G",
+    "roomNo": "18",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h088"
+    ],
+    "meritKey": "260310442355",
+    "maskedName": "Narendra M.",
+    "publicFlags": []
+  },
+  {
+    "id": "h051",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "EWS",
+    "air": 130191,
+    "room": "G-19",
+    "block": "G",
+    "roomNo": "19",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h089"
+    ],
+    "meritKey": "260311065043",
+    "maskedName": "Naitik G.",
+    "publicFlags": []
+  },
+  {
+    "id": "h052",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "OBC",
+    "air": 131082,
+    "room": "G-20",
+    "block": "G",
+    "roomNo": "20",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h090"
+    ],
+    "meritKey": "260310083247",
+    "maskedName": "Neetesh N.",
+    "publicFlags": []
+  },
+  {
+    "id": "h053",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "OBC",
+    "air": 132630,
+    "room": "G-21",
+    "block": "G",
+    "roomNo": "21",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h091"
+    ],
+    "meritKey": "260310693031",
+    "maskedName": "Aniket C.",
+    "publicFlags": []
+  },
+  {
+    "id": "h054",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "EWS",
+    "air": 133908,
+    "room": "G-22",
+    "block": "G",
+    "roomNo": "22",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h092"
+    ],
+    "meritKey": "260310036607",
+    "maskedName": "Satyam S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h055",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "OBC",
+    "air": 135784,
+    "room": "G-23",
+    "block": "G",
+    "roomNo": "23",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h093"
+    ],
+    "meritKey": "260310212342",
+    "maskedName": "Harsh C.",
+    "publicFlags": []
+  },
+  {
+    "id": "h056",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "OBC",
+    "air": 142735,
+    "room": "G-24",
+    "block": "G",
+    "roomNo": "24",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h094"
+    ],
+    "meritKey": "260310459522",
+    "maskedName": "Priyanshu S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h057",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "OBC",
+    "air": 142764,
+    "room": "G-25",
+    "block": "G",
+    "roomNo": "25",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h095"
+    ],
+    "meritKey": "260310474396",
+    "maskedName": "Prince P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h058",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "EWS",
+    "air": 143021,
+    "room": "G-26",
+    "block": "G",
+    "roomNo": "26",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h096"
+    ],
+    "meritKey": "260310198260",
+    "maskedName": "Shivansh G.",
+    "publicFlags": []
+  },
+  {
+    "id": "h059",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "OBC",
+    "air": 143270,
+    "room": "G-27",
+    "block": "G",
+    "roomNo": "27",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h097"
+    ],
+    "meritKey": "260310504582",
+    "maskedName": "Neetesh P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h060",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "UR",
+    "air": 145543,
+    "room": "G-28",
+    "block": "G",
+    "roomNo": "28",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h098"
+    ],
+    "meritKey": "260310651521",
+    "maskedName": "Aarush B.",
+    "publicFlags": []
+  },
+  {
+    "id": "h061",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "OBC",
+    "air": 146736,
+    "room": "G-29",
+    "block": "G",
+    "roomNo": "29",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h099"
+    ],
+    "meritKey": "260310749961",
+    "maskedName": "Prins J.",
+    "publicFlags": []
+  },
+  {
+    "id": "h062",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "OBC",
+    "air": 147175,
+    "room": "G-30",
+    "block": "G",
+    "roomNo": "30",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h100"
+    ],
+    "meritKey": "260310066143",
+    "maskedName": "Aayush P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h063",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "UR",
+    "air": 148477,
+    "room": "G-31",
+    "block": "G",
+    "roomNo": "31",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h101"
+    ],
+    "meritKey": null,
+    "maskedName": "Yuvraj S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h064",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "OBC",
+    "air": 148477,
+    "room": "G-32",
+    "block": "G",
+    "roomNo": "32",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h102"
+    ],
+    "meritKey": "260310634703",
+    "maskedName": "Pranshu S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h065",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "SC",
+    "air": 251649,
+    "room": "G-33",
+    "block": "G",
+    "roomNo": "33",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h103"
+    ],
+    "meritKey": null,
+    "maskedName": "Yash D.",
+    "publicFlags": []
+  },
+  {
+    "id": "h066",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "SC",
+    "air": 287739,
+    "room": "G-34",
+    "block": "G",
+    "roomNo": "34",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h104"
+    ],
+    "meritKey": null,
+    "maskedName": "Nakul S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h067",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "SC",
+    "air": 306462,
+    "room": "G-35",
+    "block": "G",
+    "roomNo": "35",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h105"
+    ],
+    "meritKey": null,
+    "maskedName": "Chaitanya D.",
+    "publicFlags": []
+  },
+  {
+    "id": "h068",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "SC",
+    "air": 312140,
+    "room": "G-36",
+    "block": "G",
+    "roomNo": "36",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h106"
+    ],
+    "meritKey": null,
+    "maskedName": "Piyush G.",
+    "publicFlags": []
+  },
+  {
+    "id": "h069",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "SC",
+    "air": 338548,
+    "room": "G-37",
+    "block": "G",
+    "roomNo": "37",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h196"
+    ],
+    "meritKey": null,
+    "maskedName": "Anuj A.",
+    "publicFlags": []
+  },
+  {
+    "id": "h070",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "SC",
+    "air": 382655,
+    "room": "G-38",
+    "block": "G",
+    "roomNo": "38",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h197"
+    ],
+    "meritKey": null,
+    "maskedName": "Bheemesh C.",
+    "publicFlags": []
+  },
+  {
+    "id": "h071",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "SC",
+    "air": 391962,
+    "room": "G-39",
+    "block": "G",
+    "roomNo": "39",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h198"
+    ],
+    "meritKey": null,
+    "maskedName": "Piyush M.",
+    "publicFlags": []
+  },
+  {
+    "id": "h072",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "SC",
+    "air": 393000,
+    "room": "G-40",
+    "block": "G",
+    "roomNo": "40",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h199"
+    ],
+    "meritKey": null,
+    "maskedName": "Sujal P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h073",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "SC",
+    "air": 409074,
+    "room": "G-41",
+    "block": "G",
+    "roomNo": "41",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h200"
+    ],
+    "meritKey": null,
+    "maskedName": "Lavkush A.",
+    "publicFlags": []
+  },
+  {
+    "id": "h074",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "SC",
+    "air": 436296,
+    "room": "G-42",
+    "block": "G",
+    "roomNo": "42",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h201"
+    ],
+    "meritKey": null,
+    "maskedName": "Samyak T.",
+    "publicFlags": []
+  },
+  {
+    "id": "h075",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "ST",
+    "air": 442580,
+    "room": "G-43",
+    "block": "G",
+    "roomNo": "43",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h202"
+    ],
+    "meritKey": null,
+    "maskedName": "Jayprakash S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h076",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "ST",
+    "air": 527889,
+    "room": "G-44",
+    "block": "G",
+    "roomNo": "44",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h203"
+    ],
+    "meritKey": null,
+    "maskedName": "Sagar I.",
+    "publicFlags": []
+  },
+  {
+    "id": "h077",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "UR",
+    "air": 532444,
+    "room": "G-45",
+    "block": "G",
+    "roomNo": "45",
+    "college": "UIT",
+    "jkResident": "Yes",
+    "roommateIds": [
+      "h204"
+    ],
+    "meritKey": null,
+    "maskedName": "Tanmay P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h078",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "ST",
+    "air": 586779,
+    "room": "G-46",
+    "block": "G",
+    "roomNo": "46",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h205"
+    ],
+    "meritKey": null,
+    "maskedName": "Rupesh P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h079",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "ST",
+    "air": 595871,
+    "room": "G-47",
+    "block": "G",
+    "roomNo": "47",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h206"
+    ],
+    "meritKey": null,
+    "maskedName": "Charanjeet U.",
+    "publicFlags": []
+  },
+  {
+    "id": "h080",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "ST",
+    "air": 656139,
+    "room": "G-48",
+    "block": "G",
+    "roomNo": "48",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h207"
+    ],
+    "meritKey": null,
+    "maskedName": "Aditya T.",
+    "publicFlags": []
+  },
+  {
+    "id": "h081",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "ST",
+    "air": 677372,
+    "room": "G-49",
+    "block": "G",
+    "roomNo": "49",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h208"
+    ],
+    "meritKey": null,
+    "maskedName": "Mayank C.",
+    "publicFlags": []
+  },
+  {
+    "id": "h082",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "ST",
+    "air": 748018,
+    "room": "G-50",
+    "block": "G",
+    "roomNo": "50",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h209"
+    ],
+    "meritKey": null,
+    "maskedName": "Harshvardhan S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h083",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "ST",
+    "air": 825966,
+    "room": "G-51",
+    "block": "G",
+    "roomNo": "51",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h210"
+    ],
+    "meritKey": null,
+    "maskedName": "Pawan B.",
+    "publicFlags": []
+  },
+  {
+    "id": "h084",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "ST",
+    "air": 891807,
+    "room": "G-52",
+    "block": "G",
+    "roomNo": "52",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h211"
+    ],
+    "meritKey": null,
+    "maskedName": "Mukesh R.",
+    "publicFlags": []
+  },
+  {
+    "id": "h085",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "ST",
+    "air": 1001150,
+    "room": "G-53",
+    "block": "G",
+    "roomNo": "53",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h212"
+    ],
+    "meritKey": null,
+    "maskedName": "Yawan U.",
+    "publicFlags": []
+  },
+  {
+    "id": "h086",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "ST",
+    "air": 1017273,
+    "room": "G-54",
+    "block": "G",
+    "roomNo": "54",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h213"
+    ],
+    "meritKey": null,
+    "maskedName": "Roshan B.",
+    "publicFlags": []
+  },
+  {
+    "id": "h087",
+    "course": "B.TECH",
+    "branch": "CSE",
+    "category": "ST",
+    "air": 1224303,
+    "room": "G-55",
+    "block": "G",
+    "roomNo": "55",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h214"
+    ],
+    "meritKey": null,
+    "maskedName": "Aditya S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h088",
+    "course": "B.TECH",
+    "branch": "AUTOMOBILE",
+    "category": "UR",
+    "air": 165088,
+    "room": "G-18",
+    "block": "G",
+    "roomNo": "18",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h050"
+    ],
+    "meritKey": null,
+    "maskedName": "Kunal I.",
+    "publicFlags": []
+  },
+  {
+    "id": "h089",
+    "course": "B.TECH",
+    "branch": "AUTOMOBILE",
+    "category": "UR",
+    "air": 362832,
+    "room": "G-19",
+    "block": "G",
+    "roomNo": "19",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h051"
+    ],
+    "meritKey": null,
+    "maskedName": "Abhishek P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h090",
+    "course": "B.TECH",
+    "branch": "AUTOMOBILE",
+    "category": "OBC",
+    "air": 412538,
+    "room": "G-20",
+    "block": "G",
+    "roomNo": "20",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h052"
+    ],
+    "meritKey": null,
+    "maskedName": "Piyush B.",
+    "publicFlags": []
+  },
+  {
+    "id": "h091",
+    "course": "B.TECH",
+    "branch": "AUTOMOBILE",
+    "category": "EWS",
+    "air": 436296,
+    "room": "G-21",
+    "block": "G",
+    "roomNo": "21",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h053"
+    ],
+    "meritKey": null,
+    "maskedName": "Hariom R.",
+    "publicFlags": []
+  },
+  {
+    "id": "h092",
+    "course": "B.TECH",
+    "branch": "AUTOMOBILE",
+    "category": "UR",
+    "air": 453674,
+    "room": "G-22",
+    "block": "G",
+    "roomNo": "22",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h054"
+    ],
+    "meritKey": null,
+    "maskedName": "Mohammad A.",
+    "publicFlags": []
+  },
+  {
+    "id": "h093",
+    "course": "B.TECH",
+    "branch": "AUTOMOBILE",
+    "category": "EWS",
+    "air": 459058,
+    "room": "G-23",
+    "block": "G",
+    "roomNo": "23",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h055"
+    ],
+    "meritKey": null,
+    "maskedName": "Girraj T.",
+    "publicFlags": []
+  },
+  {
+    "id": "h094",
+    "course": "B.TECH",
+    "branch": "AUTOMOBILE",
+    "category": "UR",
+    "air": 462518,
+    "room": "G-24",
+    "block": "G",
+    "roomNo": "24",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h056"
+    ],
+    "meritKey": null,
+    "maskedName": "Aditya B.",
+    "publicFlags": []
+  },
+  {
+    "id": "h095",
+    "course": "B.TECH",
+    "branch": "AUTOMOBILE",
+    "category": "EWS",
+    "air": 486324,
+    "room": "G-25",
+    "block": "G",
+    "roomNo": "25",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h057"
+    ],
+    "meritKey": null,
+    "maskedName": "Aman D.",
+    "publicFlags": []
+  },
+  {
+    "id": "h096",
+    "course": "B.TECH",
+    "branch": "AUTOMOBILE",
+    "category": "OBC",
+    "air": 555231,
+    "room": "G-26",
+    "block": "G",
+    "roomNo": "26",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h058"
+    ],
+    "meritKey": null,
+    "maskedName": "Dhiraj R.",
+    "publicFlags": []
+  },
+  {
+    "id": "h097",
+    "course": "B.TECH",
+    "branch": "AUTOMOBILE",
+    "category": "OBC",
+    "air": 568000,
+    "room": "G-27",
+    "block": "G",
+    "roomNo": "27",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h059"
+    ],
+    "meritKey": null,
+    "maskedName": "Arbaj K.",
+    "publicFlags": []
+  },
+  {
+    "id": "h098",
+    "course": "B.TECH",
+    "branch": "AUTOMOBILE",
+    "category": "UR",
+    "air": 569135,
+    "room": "G-28",
+    "block": "G",
+    "roomNo": "28",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h060"
+    ],
+    "meritKey": null,
+    "maskedName": "Virendra D.",
+    "publicFlags": []
+  },
+  {
+    "id": "h099",
+    "course": "B.TECH",
+    "branch": "AUTOMOBILE",
+    "category": "OBC",
+    "air": 587851,
+    "room": "G-29",
+    "block": "G",
+    "roomNo": "29",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h061"
+    ],
+    "meritKey": null,
+    "maskedName": "Saksham V.",
+    "publicFlags": []
+  },
+  {
+    "id": "h100",
+    "course": "B.TECH",
+    "branch": "AUTOMOBILE",
+    "category": "OBC",
+    "air": 619436,
+    "room": "G-30",
+    "block": "G",
+    "roomNo": "30",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h062"
+    ],
+    "meritKey": null,
+    "maskedName": "Adesh K.",
+    "publicFlags": []
+  },
+  {
+    "id": "h101",
+    "course": "B.TECH",
+    "branch": "AUTOMOBILE",
+    "category": "OBC",
+    "air": 619436,
+    "room": "G-31",
+    "block": "G",
+    "roomNo": "31",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h063"
+    ],
+    "meritKey": null,
+    "maskedName": "Prem G.",
+    "publicFlags": []
+  },
+  {
+    "id": "h102",
+    "course": "B.TECH",
+    "branch": "AUTOMOBILE",
+    "category": "OBC",
+    "air": 650335,
+    "room": "G-32",
+    "block": "G",
+    "roomNo": "32",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h064"
+    ],
+    "meritKey": null,
+    "maskedName": "Ashish D.",
+    "publicFlags": []
+  },
+  {
+    "id": "h103",
+    "course": "B.TECH",
+    "branch": "AUTOMOBILE",
+    "category": "OBC",
+    "air": 719696,
+    "room": "G-33",
+    "block": "G",
+    "roomNo": "33",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h065"
+    ],
+    "meritKey": null,
+    "maskedName": "Paras K.",
+    "publicFlags": []
+  },
+  {
+    "id": "h104",
+    "course": "B.TECH",
+    "branch": "AUTOMOBILE",
+    "category": "OBC",
+    "air": 783206,
+    "room": "G-34",
+    "block": "G",
+    "roomNo": "34",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h066"
+    ],
+    "meritKey": null,
+    "maskedName": "Sanskar K.",
+    "publicFlags": []
+  },
+  {
+    "id": "h105",
+    "course": "B.TECH",
+    "branch": "AUTOMOBILE",
+    "category": "SC",
+    "air": 852835,
+    "room": "G-35",
+    "block": "G",
+    "roomNo": "35",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h067"
+    ],
+    "meritKey": null,
+    "maskedName": "Prashant C.",
+    "publicFlags": []
+  },
+  {
+    "id": "h106",
+    "course": "B.TECH",
+    "branch": "AUTOMOBILE",
+    "category": "ST",
+    "air": 1159280,
+    "room": "G-36",
+    "block": "G",
+    "roomNo": "36",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h068"
+    ],
+    "meritKey": null,
+    "maskedName": "Ajay S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h107",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "UR",
+    "air": 109253,
+    "room": "F-21",
+    "block": "F",
+    "roomNo": "21",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h149"
+    ],
+    "meritKey": "260310474029",
+    "maskedName": "Abhishek C.",
+    "publicFlags": []
+  },
+  {
+    "id": "h108",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "EWS",
+    "air": 173093,
+    "room": "F-22",
+    "block": "F",
+    "roomNo": "22",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h150"
+    ],
+    "meritKey": null,
+    "maskedName": "Munendra C.",
+    "publicFlags": []
+  },
+  {
+    "id": "h109",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "UR",
+    "air": 195359,
+    "room": "F-23",
+    "block": "F",
+    "roomNo": "23",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h151"
+    ],
+    "meritKey": null,
+    "maskedName": "Vineet S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h110",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "UR",
+    "air": 241695,
+    "room": "F-24",
+    "block": "F",
+    "roomNo": "24",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h152"
+    ],
+    "meritKey": null,
+    "maskedName": "Aaditya T.",
+    "publicFlags": []
+  },
+  {
+    "id": "h111",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "OBC",
+    "air": 265490,
+    "room": "F-25",
+    "block": "F",
+    "roomNo": "25",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h153"
+    ],
+    "meritKey": null,
+    "maskedName": "Avneesh N.",
+    "publicFlags": []
+  },
+  {
+    "id": "h112",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "OBC",
+    "air": 284928,
+    "room": "F-26",
+    "block": "F",
+    "roomNo": "26",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h154"
+    ],
+    "meritKey": null,
+    "maskedName": "Sunil S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h113",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "SC",
+    "air": 285355,
+    "room": "F-27",
+    "block": "F",
+    "roomNo": "27",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h155"
+    ],
+    "meritKey": null,
+    "maskedName": "Sharad K.",
+    "publicFlags": []
+  },
+  {
+    "id": "h114",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "UR",
+    "air": 287389,
+    "room": "F-28",
+    "block": "F",
+    "roomNo": "28",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h156"
+    ],
+    "meritKey": null,
+    "maskedName": "Prince Y.",
+    "publicFlags": []
+  },
+  {
+    "id": "h115",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "OBC",
+    "air": 293925,
+    "room": "F-29",
+    "block": "F",
+    "roomNo": "29",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h157"
+    ],
+    "meritKey": null,
+    "maskedName": "Vikas P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h116",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "UR",
+    "air": 302221,
+    "room": "F-30",
+    "block": "F",
+    "roomNo": "30",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h158"
+    ],
+    "meritKey": null,
+    "maskedName": "Shobhit D.",
+    "publicFlags": []
+  },
+  {
+    "id": "h117",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "UR",
+    "air": 321979,
+    "room": "F-31",
+    "block": "F",
+    "roomNo": "31",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h159"
+    ],
+    "meritKey": null,
+    "maskedName": "Satyam S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h118",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "ST",
+    "air": 337733,
+    "room": "F-32",
+    "block": "F",
+    "roomNo": "32",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h160"
+    ],
+    "meritKey": null,
+    "maskedName": "Vijay G.",
+    "publicFlags": []
+  },
+  {
+    "id": "h119",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "OBC",
+    "air": 339568,
+    "room": "F-33",
+    "block": "F",
+    "roomNo": "33",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h161"
+    ],
+    "meritKey": null,
+    "maskedName": "Oshank S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h120",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "EWS",
+    "air": 346329,
+    "room": "F-34",
+    "block": "F",
+    "roomNo": "34",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h162"
+    ],
+    "meritKey": null,
+    "maskedName": "Abhinav D.",
+    "publicFlags": []
+  },
+  {
+    "id": "h121",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "UR",
+    "air": 346354,
+    "room": "F-35",
+    "block": "F",
+    "roomNo": "35",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h163"
+    ],
+    "meritKey": null,
+    "maskedName": "Abhiroop S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h122",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "OBC",
+    "air": 362832,
+    "room": "F-36",
+    "block": "F",
+    "roomNo": "36",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h164"
+    ],
+    "meritKey": null,
+    "maskedName": "Nitesh B.",
+    "publicFlags": []
+  },
+  {
+    "id": "h123",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "UR",
+    "air": 379299,
+    "room": "F-37",
+    "block": "F",
+    "roomNo": "37",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h165"
+    ],
+    "meritKey": null,
+    "maskedName": "Abhimanyu S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h124",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "OBC",
+    "air": 382268,
+    "room": "F-38",
+    "block": "F",
+    "roomNo": "38",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h166"
+    ],
+    "meritKey": null,
+    "maskedName": "Aniket L.",
+    "publicFlags": []
+  },
+  {
+    "id": "h125",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "OBC",
+    "air": 382268,
+    "room": "F-39",
+    "block": "F",
+    "roomNo": "39",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h167"
+    ],
+    "meritKey": null,
+    "maskedName": "Prateek R.",
+    "publicFlags": []
+  },
+  {
+    "id": "h126",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "EWS",
+    "air": 392269,
+    "room": "F-40",
+    "block": "F",
+    "roomNo": "40",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h168"
+    ],
+    "meritKey": null,
+    "maskedName": "Deepak S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h127",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "OBC",
+    "air": 404912,
+    "room": "F-41",
+    "block": "F",
+    "roomNo": "41",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h169"
+    ],
+    "meritKey": null,
+    "maskedName": "Prem Y.",
+    "publicFlags": []
+  },
+  {
+    "id": "h128",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "EWS",
+    "air": 405638,
+    "room": "F-42",
+    "block": "F",
+    "roomNo": "42",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h170"
+    ],
+    "meritKey": null,
+    "maskedName": "Swadeep M.",
+    "publicFlags": []
+  },
+  {
+    "id": "h129",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "SC",
+    "air": 420393,
+    "room": "F-43",
+    "block": "F",
+    "roomNo": "43",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h171"
+    ],
+    "meritKey": null,
+    "maskedName": "Ajay P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h130",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "EWS",
+    "air": 422012,
+    "room": "F-44",
+    "block": "F",
+    "roomNo": "44",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h172"
+    ],
+    "meritKey": null,
+    "maskedName": "Ankit T.",
+    "publicFlags": []
+  },
+  {
+    "id": "h131",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "SC",
+    "air": 622382,
+    "room": "F-45",
+    "block": "F",
+    "roomNo": "45",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h173"
+    ],
+    "meritKey": null,
+    "maskedName": "Ritik S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h132",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "ST",
+    "air": 714032,
+    "room": "F-46",
+    "block": "F",
+    "roomNo": "46",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h174"
+    ],
+    "meritKey": null,
+    "maskedName": "Anil M.",
+    "publicFlags": []
+  },
+  {
+    "id": "h133",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "SC",
+    "air": 714032,
+    "room": "F-47",
+    "block": "F",
+    "roomNo": "47",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h175"
+    ],
+    "meritKey": null,
+    "maskedName": "Samarth M.",
+    "publicFlags": []
+  },
+  {
+    "id": "h134",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "SC",
+    "air": 723704,
+    "room": "F-48",
+    "block": "F",
+    "roomNo": "48",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h176"
+    ],
+    "meritKey": null,
+    "maskedName": "Harsh C.",
+    "publicFlags": []
+  },
+  {
+    "id": "h135",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "SC",
+    "air": 801479,
+    "room": "F-49",
+    "block": "F",
+    "roomNo": "49",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h177"
+    ],
+    "meritKey": null,
+    "maskedName": "Vivek R.",
+    "publicFlags": []
+  },
+  {
+    "id": "h136",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "SC",
+    "air": 903465,
+    "room": "F-50",
+    "block": "F",
+    "roomNo": "50",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h178"
+    ],
+    "meritKey": null,
+    "maskedName": "Akash A.",
+    "publicFlags": []
+  },
+  {
+    "id": "h137",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "ST",
+    "air": 908238,
+    "room": "F-51",
+    "block": "F",
+    "roomNo": "51",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h179"
+    ],
+    "meritKey": null,
+    "maskedName": "Ankush N.",
+    "publicFlags": []
+  },
+  {
+    "id": "h138",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "SC",
+    "air": 984495,
+    "room": "F-52",
+    "block": "F",
+    "roomNo": "52",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h180"
+    ],
+    "meritKey": null,
+    "maskedName": "Aditya N.",
+    "publicFlags": []
+  },
+  {
+    "id": "h139",
+    "course": "B.TECH",
+    "branch": "CE",
+    "category": "SC",
+    "air": 1134538,
+    "room": "F-53",
+    "block": "F",
+    "roomNo": "53",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h181"
+    ],
+    "meritKey": null,
+    "maskedName": "Deepanshu C.",
+    "publicFlags": []
+  },
+  {
+    "id": "h140",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "UR",
+    "air": 24647,
+    "room": "F-12",
+    "block": "F",
+    "roomNo": "12",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h241"
+    ],
+    "meritKey": null,
+    "maskedName": "Aaditya R.",
+    "publicFlags": []
+  },
+  {
+    "id": "h141",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "SC",
+    "air": 78308,
+    "room": "F-13",
+    "block": "F",
+    "roomNo": "13",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h242"
+    ],
+    "meritKey": null,
+    "maskedName": "Sashwat M.",
+    "publicFlags": []
+  },
+  {
+    "id": "h142",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 145522,
+    "room": "F-14",
+    "block": "F",
+    "roomNo": "14",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h243"
+    ],
+    "meritKey": "260310149022",
+    "maskedName": "Tanishk R.",
+    "publicFlags": []
+  },
+  {
+    "id": "h143",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 159957,
+    "room": "F-15",
+    "block": "F",
+    "roomNo": "15",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h244"
+    ],
+    "meritKey": null,
+    "maskedName": "Vishwas U.",
+    "publicFlags": []
+  },
+  {
+    "id": "h144",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "EWS",
+    "air": 162596,
+    "room": "F-16",
+    "block": "F",
+    "roomNo": "16",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h245"
+    ],
+    "meritKey": null,
+    "maskedName": "Nihal C.",
+    "publicFlags": []
+  },
+  {
+    "id": "h145",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "EWS",
+    "air": 171381,
+    "room": "F-17",
+    "block": "F",
+    "roomNo": "17",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h246"
+    ],
+    "meritKey": null,
+    "maskedName": "Labhansh J.",
+    "publicFlags": []
+  },
+  {
+    "id": "h146",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "UR",
+    "air": 172914,
+    "room": "F-18",
+    "block": "F",
+    "roomNo": "18",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h247"
+    ],
+    "meritKey": null,
+    "maskedName": "Mayank K.",
+    "publicFlags": []
+  },
+  {
+    "id": "h147",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "UR",
+    "air": 174162,
+    "room": "F-19",
+    "block": "F",
+    "roomNo": "19",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h248"
+    ],
+    "meritKey": null,
+    "maskedName": "Abhinav D.",
+    "publicFlags": []
+  },
+  {
+    "id": "h148",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "UR",
+    "air": 176041,
+    "room": "F-20",
+    "block": "F",
+    "roomNo": "20",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h249"
+    ],
+    "meritKey": null,
+    "maskedName": "Ankush S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h149",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "UR",
+    "air": 181052,
+    "room": "F-21",
+    "block": "F",
+    "roomNo": "21",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h107"
+    ],
+    "meritKey": null,
+    "maskedName": "Purushottam P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h150",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "EWS",
+    "air": 183353,
+    "room": "F-22",
+    "block": "F",
+    "roomNo": "22",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h108"
+    ],
+    "meritKey": "260310564042",
+    "maskedName": "Hrdesh S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h151",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "EWS",
+    "air": 183353,
+    "room": "F-23",
+    "block": "F",
+    "roomNo": "23",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h109"
+    ],
+    "meritKey": null,
+    "maskedName": "Shubham G.",
+    "publicFlags": []
+  },
+  {
+    "id": "h152",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "UR",
+    "air": 185980,
+    "room": "F-24",
+    "block": "F",
+    "roomNo": "24",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h110"
+    ],
+    "meritKey": null,
+    "maskedName": "Yatharth G.",
+    "publicFlags": []
+  },
+  {
+    "id": "h153",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 187298,
+    "room": "F-25",
+    "block": "F",
+    "roomNo": "25",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h111"
+    ],
+    "meritKey": null,
+    "maskedName": "Vivek B.",
+    "publicFlags": []
+  },
+  {
+    "id": "h154",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 188313,
+    "room": "F-26",
+    "block": "F",
+    "roomNo": "26",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h112"
+    ],
+    "meritKey": null,
+    "maskedName": "Mayank P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h155",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 190299,
+    "room": "F-27",
+    "block": "F",
+    "roomNo": "27",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h113"
+    ],
+    "meritKey": null,
+    "maskedName": "Vaibhav P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h156",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 192412,
+    "room": "F-28",
+    "block": "F",
+    "roomNo": "28",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h114"
+    ],
+    "meritKey": null,
+    "maskedName": "Shivshant P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h157",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "UR",
+    "air": 193923,
+    "room": "F-29",
+    "block": "F",
+    "roomNo": "29",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h115"
+    ],
+    "meritKey": null,
+    "maskedName": "Athrawa J.",
+    "publicFlags": []
+  },
+  {
+    "id": "h158",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "EWS",
+    "air": 194999,
+    "room": "F-30",
+    "block": "F",
+    "roomNo": "30",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h116"
+    ],
+    "meritKey": "260310963013",
+    "maskedName": "Saurya T.",
+    "publicFlags": []
+  },
+  {
+    "id": "h159",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "EWS",
+    "air": 194999,
+    "room": "F-31",
+    "block": "F",
+    "roomNo": "31",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h117"
+    ],
+    "meritKey": null,
+    "maskedName": "Priyanshu T.",
+    "publicFlags": []
+  },
+  {
+    "id": "h160",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 199151,
+    "room": "F-32",
+    "block": "F",
+    "roomNo": "32",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h118"
+    ],
+    "meritKey": null,
+    "maskedName": "Mangilal D.",
+    "publicFlags": []
+  },
+  {
+    "id": "h161",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "EWS",
+    "air": 201160,
+    "room": "F-33",
+    "block": "F",
+    "roomNo": "33",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h119"
+    ],
+    "meritKey": null,
+    "maskedName": "Yugank T.",
+    "publicFlags": []
+  },
+  {
+    "id": "h162",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 201168,
+    "room": "F-34",
+    "block": "F",
+    "roomNo": "34",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h120"
+    ],
+    "meritKey": null,
+    "maskedName": "Akshat S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h163",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 201645,
+    "room": "F-35",
+    "block": "F",
+    "roomNo": "35",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h121"
+    ],
+    "meritKey": null,
+    "maskedName": "Manthan M.",
+    "publicFlags": []
+  },
+  {
+    "id": "h164",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 202337,
+    "room": "F-36",
+    "block": "F",
+    "roomNo": "36",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h122"
+    ],
+    "meritKey": null,
+    "maskedName": "Ashvin F.",
+    "publicFlags": []
+  },
+  {
+    "id": "h165",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "EWS",
+    "air": 202392,
+    "room": "F-37",
+    "block": "F",
+    "roomNo": "37",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h123"
+    ],
+    "meritKey": null,
+    "maskedName": "Satyam C.",
+    "publicFlags": []
+  },
+  {
+    "id": "h166",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "EWS",
+    "air": 203972,
+    "room": "F-38",
+    "block": "F",
+    "roomNo": "38",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h124"
+    ],
+    "meritKey": null,
+    "maskedName": "Vishnu C.",
+    "publicFlags": []
+  },
+  {
+    "id": "h167",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 211979,
+    "room": "F-39",
+    "block": "F",
+    "roomNo": "39",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h125"
+    ],
+    "meritKey": "260311162708",
+    "maskedName": "Tanmay K.",
+    "publicFlags": []
+  },
+  {
+    "id": "h168",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 211979,
+    "room": "F-40",
+    "block": "F",
+    "roomNo": "40",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h126"
+    ],
+    "meritKey": null,
+    "maskedName": "Ayush N.",
+    "publicFlags": []
+  },
+  {
+    "id": "h169",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 215146,
+    "room": "F-41",
+    "block": "F",
+    "roomNo": "41",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h127"
+    ],
+    "meritKey": null,
+    "maskedName": "Mohit B.",
+    "publicFlags": []
+  },
+  {
+    "id": "h170",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 217472,
+    "room": "F-42",
+    "block": "F",
+    "roomNo": "42",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h128"
+    ],
+    "meritKey": null,
+    "maskedName": "Naveen G.",
+    "publicFlags": []
+  },
+  {
+    "id": "h171",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "UR",
+    "air": 219072,
+    "room": "F-43",
+    "block": "F",
+    "roomNo": "43",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h129"
+    ],
+    "meritKey": "260310771396",
+    "maskedName": "Sarvesh S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h172",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 219072,
+    "room": "F-44",
+    "block": "F",
+    "roomNo": "44",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h130"
+    ],
+    "meritKey": null,
+    "maskedName": "Shriyanshu P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h173",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 220084,
+    "room": "F-45",
+    "block": "F",
+    "roomNo": "45",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h131"
+    ],
+    "meritKey": null,
+    "maskedName": "Deepak R.",
+    "publicFlags": []
+  },
+  {
+    "id": "h174",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 223674,
+    "room": "F-46",
+    "block": "F",
+    "roomNo": "46",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h132"
+    ],
+    "meritKey": "260310321358",
+    "maskedName": "Pradeep P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h175",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 223674,
+    "room": "F-47",
+    "block": "F",
+    "roomNo": "47",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h133"
+    ],
+    "meritKey": null,
+    "maskedName": "Dheerendra P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h176",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 226139,
+    "room": "F-48",
+    "block": "F",
+    "roomNo": "48",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h134"
+    ],
+    "meritKey": null,
+    "maskedName": "Ishu P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h177",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 238612,
+    "room": "F-49",
+    "block": "F",
+    "roomNo": "49",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h135"
+    ],
+    "meritKey": null,
+    "maskedName": "Pratap D.",
+    "publicFlags": []
+  },
+  {
+    "id": "h178",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 245342,
+    "room": "F-50",
+    "block": "F",
+    "roomNo": "50",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h136"
+    ],
+    "meritKey": null,
+    "maskedName": "Shivam Y.",
+    "publicFlags": []
+  },
+  {
+    "id": "h179",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "EWS",
+    "air": 246132,
+    "room": "F-51",
+    "block": "F",
+    "roomNo": "51",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h137"
+    ],
+    "meritKey": null,
+    "maskedName": "Aman P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h180",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 247975,
+    "room": "F-52",
+    "block": "F",
+    "roomNo": "52",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h138"
+    ],
+    "meritKey": null,
+    "maskedName": "Mousam V.",
+    "publicFlags": []
+  },
+  {
+    "id": "h181",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 250679,
+    "room": "F-53",
+    "block": "F",
+    "roomNo": "53",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h139"
+    ],
+    "meritKey": null,
+    "maskedName": "Somya Y.",
+    "publicFlags": []
+  },
+  {
+    "id": "h182",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "OBC",
+    "air": 255867,
+    "room": "F-54",
+    "block": "F",
+    "roomNo": "54",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [],
+    "meritKey": null,
+    "maskedName": "Vikas P.",
+    "publicFlags": [
+      "ROOM_SINGLE"
+    ]
+  },
+  {
+    "id": "h183",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "SC",
+    "air": 394868,
+    "room": "F-55",
+    "block": "F",
+    "roomNo": "55",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [],
+    "meritKey": null,
+    "maskedName": "Piyush J.",
+    "publicFlags": [
+      "ROOM_SINGLE"
+    ]
+  },
+  {
+    "id": "h184",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "SC",
+    "air": 593711,
+    "room": "F-56",
+    "block": "F",
+    "roomNo": "56",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [],
+    "meritKey": null,
+    "maskedName": "Aalok R.",
+    "publicFlags": [
+      "ROOM_SINGLE"
+    ]
+  },
+  {
+    "id": "h185",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "SC",
+    "air": 655132,
+    "room": "F-57",
+    "block": "F",
+    "roomNo": "57",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [],
+    "meritKey": null,
+    "maskedName": "Rishabh S.",
+    "publicFlags": [
+      "ROOM_SINGLE"
+    ]
+  },
+  {
+    "id": "h186",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "SC",
+    "air": 655132,
+    "room": "F-58",
+    "block": "F",
+    "roomNo": "58",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [],
+    "meritKey": null,
+    "maskedName": "Anurag B.",
+    "publicFlags": [
+      "ROOM_SINGLE"
+    ]
+  },
+  {
+    "id": "h187",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "SC",
+    "air": 679700,
+    "room": "F-59",
+    "block": "F",
+    "roomNo": "59",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [],
+    "meritKey": null,
+    "maskedName": "Aman C.",
+    "publicFlags": [
+      "ROOM_SINGLE"
+    ]
+  },
+  {
+    "id": "h188",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "SC",
+    "air": 736769,
+    "room": "F-60",
+    "block": "F",
+    "roomNo": "60",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [],
+    "meritKey": null,
+    "maskedName": "Ayush W.",
+    "publicFlags": [
+      "ROOM_SINGLE"
+    ]
+  },
+  {
+    "id": "h189",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "SC",
+    "air": 749211,
+    "room": "F-61",
+    "block": "F",
+    "roomNo": "61",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [],
+    "meritKey": null,
+    "maskedName": "Amarjeet S.",
+    "publicFlags": [
+      "ROOM_SINGLE"
+    ]
+  },
+  {
+    "id": "h190",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "SC",
+    "air": 793516,
+    "room": "F-62",
+    "block": "F",
+    "roomNo": "62",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [],
+    "meritKey": null,
+    "maskedName": "Aman H.",
+    "publicFlags": [
+      "ROOM_SINGLE"
+    ]
+  },
+  {
+    "id": "h191",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "SC",
+    "air": 801479,
+    "room": "F-63",
+    "block": "F",
+    "roomNo": "63",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [],
+    "meritKey": null,
+    "maskedName": "Badal A.",
+    "publicFlags": [
+      "ROOM_SINGLE"
+    ]
+  },
+  {
+    "id": "h192",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "SC",
+    "air": 891807,
+    "room": "F-64",
+    "block": "F",
+    "roomNo": "64",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [],
+    "meritKey": null,
+    "maskedName": "Daksh D.",
+    "publicFlags": [
+      "ROOM_SINGLE"
+    ]
+  },
+  {
+    "id": "h193",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "SC",
+    "air": 916841,
+    "room": "F-65",
+    "block": "F",
+    "roomNo": "65",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [],
+    "meritKey": null,
+    "maskedName": "Dhruv B.",
+    "publicFlags": [
+      "ROOM_SINGLE"
+    ]
+  },
+  {
+    "id": "h194",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "SC",
+    "air": 939379,
+    "room": "F-66",
+    "block": "F",
+    "roomNo": "66",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [],
+    "meritKey": null,
+    "maskedName": "Hitesh P.",
+    "publicFlags": [
+      "ROOM_SINGLE"
+    ]
+  },
+  {
+    "id": "h195",
+    "course": "B.TECH",
+    "branch": "EC",
+    "category": "SC",
+    "air": 954082,
+    "room": "F-67",
+    "block": "F",
+    "roomNo": "67",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [],
+    "meritKey": null,
+    "maskedName": "Udit C.",
+    "publicFlags": [
+      "ROOM_SINGLE"
+    ]
+  },
+  {
+    "id": "h196",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "UR",
+    "air": 148479,
+    "room": "G-37",
+    "block": "G",
+    "roomNo": "37",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h069"
+    ],
+    "meritKey": null,
+    "maskedName": "Aman K.",
+    "publicFlags": []
+  },
+  {
+    "id": "h197",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "UR",
+    "air": 163104,
+    "room": "G-38",
+    "block": "G",
+    "roomNo": "38",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h070"
+    ],
+    "meritKey": null,
+    "maskedName": "Priyam",
+    "publicFlags": []
+  },
+  {
+    "id": "h198",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "OBC",
+    "air": 164592,
+    "room": "G-39",
+    "block": "G",
+    "roomNo": "39",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h071"
+    ],
+    "meritKey": null,
+    "maskedName": "Raj V.",
+    "publicFlags": []
+  },
+  {
+    "id": "h199",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "OBC",
+    "air": 203658,
+    "room": "G-40",
+    "block": "G",
+    "roomNo": "40",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h072"
+    ],
+    "meritKey": null,
+    "maskedName": "Joyeb K.",
+    "publicFlags": []
+  },
+  {
+    "id": "h200",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "UR",
+    "air": 207096,
+    "room": "G-41",
+    "block": "G",
+    "roomNo": "41",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h073"
+    ],
+    "meritKey": null,
+    "maskedName": "Sumit P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h201",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "EWS",
+    "air": 257148,
+    "room": "G-42",
+    "block": "G",
+    "roomNo": "42",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h074"
+    ],
+    "meritKey": null,
+    "maskedName": "Kunal T.",
+    "publicFlags": []
+  },
+  {
+    "id": "h202",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "OBC",
+    "air": 271200,
+    "room": "G-43",
+    "block": "G",
+    "roomNo": "43",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h075"
+    ],
+    "meritKey": null,
+    "maskedName": "Himanshu Y.",
+    "publicFlags": []
+  },
+  {
+    "id": "h203",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "OBC",
+    "air": 272373,
+    "room": "G-44",
+    "block": "G",
+    "roomNo": "44",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h076"
+    ],
+    "meritKey": null,
+    "maskedName": "Ritik S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h204",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "EWS",
+    "air": 273718,
+    "room": "G-45",
+    "block": "G",
+    "roomNo": "45",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h077"
+    ],
+    "meritKey": null,
+    "maskedName": "Kush G.",
+    "publicFlags": []
+  },
+  {
+    "id": "h205",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "OBC",
+    "air": 273731,
+    "room": "G-46",
+    "block": "G",
+    "roomNo": "46",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h078"
+    ],
+    "meritKey": null,
+    "maskedName": "Dhruv S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h206",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "OBC",
+    "air": 274630,
+    "room": "G-47",
+    "block": "G",
+    "roomNo": "47",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h079"
+    ],
+    "meritKey": null,
+    "maskedName": "Sparsh P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h207",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "OBC",
+    "air": 281812,
+    "room": "G-48",
+    "block": "G",
+    "roomNo": "48",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h080"
+    ],
+    "meritKey": null,
+    "maskedName": "Swarn R.",
+    "publicFlags": []
+  },
+  {
+    "id": "h208",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "OBC",
+    "air": 285216,
+    "room": "G-49",
+    "block": "G",
+    "roomNo": "49",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h081"
+    ],
+    "meritKey": null,
+    "maskedName": "Naitik S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h209",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "EWS",
+    "air": 294058,
+    "room": "G-50",
+    "block": "G",
+    "roomNo": "50",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h082"
+    ],
+    "meritKey": null,
+    "maskedName": "Suryansh S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h210",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "OBC",
+    "air": 297980,
+    "room": "G-51",
+    "block": "G",
+    "roomNo": "51",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h083"
+    ],
+    "meritKey": null,
+    "maskedName": "Krishna V.",
+    "publicFlags": []
+  },
+  {
+    "id": "h211",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "OBC",
+    "air": 303598,
+    "room": "G-52",
+    "block": "G",
+    "roomNo": "52",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h084"
+    ],
+    "meritKey": null,
+    "maskedName": "Sumit P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h212",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "OBC",
+    "air": 307085,
+    "room": "G-53",
+    "block": "G",
+    "roomNo": "53",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h085"
+    ],
+    "meritKey": null,
+    "maskedName": "Aditya S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h213",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "OBC",
+    "air": 320709,
+    "room": "G-54",
+    "block": "G",
+    "roomNo": "54",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h086"
+    ],
+    "meritKey": null,
+    "maskedName": "Aniket L.",
+    "publicFlags": []
+  },
+  {
+    "id": "h214",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "OBC",
+    "air": 330424,
+    "room": "G-55",
+    "block": "G",
+    "roomNo": "55",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h087"
+    ],
+    "meritKey": null,
+    "maskedName": "Aryan N.",
+    "publicFlags": []
+  },
+  {
+    "id": "h215",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "SC",
+    "air": 517787,
+    "room": "G-56",
+    "block": "G",
+    "roomNo": "56",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h250"
+    ],
+    "meritKey": null,
+    "maskedName": "Bhupendra A.",
+    "publicFlags": []
+  },
+  {
+    "id": "h216",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "SC",
+    "air": 563555,
+    "room": "G-57",
+    "block": "G",
+    "roomNo": "57",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h251"
+    ],
+    "meritKey": null,
+    "maskedName": "Abhishek M.",
+    "publicFlags": []
+  },
+  {
+    "id": "h217",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "SC",
+    "air": 587851,
+    "room": "G-58",
+    "block": "G",
+    "roomNo": "58",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h252"
+    ],
+    "meritKey": null,
+    "maskedName": "Ravendra P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h218",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "SC",
+    "air": 630676,
+    "room": "G-59",
+    "block": "G",
+    "roomNo": "59",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h253"
+    ],
+    "meritKey": null,
+    "maskedName": "Dhananjay S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h219",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "SC",
+    "air": 719637,
+    "room": "G-60",
+    "block": "G",
+    "roomNo": "60",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h254"
+    ],
+    "meritKey": null,
+    "maskedName": "Durgesh M.",
+    "publicFlags": []
+  },
+  {
+    "id": "h220",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "SC",
+    "air": 912650,
+    "room": "G-61",
+    "block": "G",
+    "roomNo": "61",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h255"
+    ],
+    "meritKey": null,
+    "maskedName": "Naval N.",
+    "publicFlags": []
+  },
+  {
+    "id": "h221",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "SC",
+    "air": 1048128,
+    "room": "G-62",
+    "block": "G",
+    "roomNo": "62",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h256"
+    ],
+    "meritKey": null,
+    "maskedName": "Rahul P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h222",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "SC",
+    "air": 1208690,
+    "room": "G-63",
+    "block": "G",
+    "roomNo": "63",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h257"
+    ],
+    "meritKey": null,
+    "maskedName": "Abhiyanshu B.",
+    "publicFlags": []
+  },
+  {
+    "id": "h223",
+    "course": "B.TECH",
+    "branch": "EX/EE",
+    "category": "ST",
+    "air": 1314618,
+    "room": "G-64",
+    "block": "G",
+    "roomNo": "64",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h258"
+    ],
+    "meritKey": null,
+    "maskedName": "Pramod S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h224",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "OBC",
+    "air": 116387,
+    "room": "G-65",
+    "block": "G",
+    "roomNo": "65",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h259"
+    ],
+    "meritKey": "260310014886",
+    "maskedName": "Nakul P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h225",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "All India",
+    "air": 120751,
+    "room": "G-66",
+    "block": "G",
+    "roomNo": "66",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h260"
+    ],
+    "meritKey": "260310478941",
+    "maskedName": "Ansh G.",
+    "publicFlags": []
+  },
+  {
+    "id": "h226",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "EWS",
+    "air": 136813,
+    "room": "G-67",
+    "block": "G",
+    "roomNo": "67",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h261"
+    ],
+    "meritKey": "260310402132",
+    "maskedName": "Prateek T.",
+    "publicFlags": []
+  },
+  {
+    "id": "h227",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "OBC",
+    "air": 150686,
+    "room": "G-68",
+    "block": "G",
+    "roomNo": "68",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h262"
+    ],
+    "meritKey": null,
+    "maskedName": "Ram K.",
+    "publicFlags": []
+  },
+  {
+    "id": "h228",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "EWS",
+    "air": 151404,
+    "room": "G-69",
+    "block": "G",
+    "roomNo": "69",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h263"
+    ],
+    "meritKey": null,
+    "maskedName": "Garvit B.",
+    "publicFlags": []
+  },
+  {
+    "id": "h229",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "UR",
+    "air": 152704,
+    "room": "G-70",
+    "block": "G",
+    "roomNo": "70",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h264"
+    ],
+    "meritKey": "260310804125",
+    "maskedName": "Ayush P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h230",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "OBC",
+    "air": 152704,
+    "room": "F-1",
+    "block": "F",
+    "roomNo": "1",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h265"
+    ],
+    "meritKey": null,
+    "maskedName": "Harshit P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h231",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "OBC",
+    "air": 165767,
+    "room": "F-2",
+    "block": "F",
+    "roomNo": "2",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h266"
+    ],
+    "meritKey": null,
+    "maskedName": "Sumit C.",
+    "publicFlags": []
+  },
+  {
+    "id": "h232",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "OBC",
+    "air": 166103,
+    "room": "F-3",
+    "block": "F",
+    "roomNo": "3",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h267"
+    ],
+    "meritKey": null,
+    "maskedName": "Deepansh S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h233",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "OBC",
+    "air": 170336,
+    "room": "F-4",
+    "block": "F",
+    "roomNo": "4",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h268"
+    ],
+    "meritKey": null,
+    "maskedName": "Ashutosh K.",
+    "publicFlags": []
+  },
+  {
+    "id": "h234",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "OBC",
+    "air": 177589,
+    "room": "F-5",
+    "block": "F",
+    "roomNo": "5",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h269"
+    ],
+    "meritKey": null,
+    "maskedName": "Krishna K.",
+    "publicFlags": []
+  },
+  {
+    "id": "h235",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "OBC",
+    "air": 179886,
+    "room": "F-6",
+    "block": "F",
+    "roomNo": "6",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h270"
+    ],
+    "meritKey": null,
+    "maskedName": "Adarsh P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h236",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "OBC",
+    "air": 179896,
+    "room": "F-7",
+    "block": "F",
+    "roomNo": "7",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h271"
+    ],
+    "meritKey": "260310489090",
+    "maskedName": "Adarsh P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h237",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "OBC",
+    "air": 179896,
+    "room": "F-8",
+    "block": "F",
+    "roomNo": "8",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h272"
+    ],
+    "meritKey": null,
+    "maskedName": "Rahul L.",
+    "publicFlags": []
+  },
+  {
+    "id": "h238",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "SC",
+    "air": 362832,
+    "room": "F-9",
+    "block": "F",
+    "roomNo": "9",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h273"
+    ],
+    "meritKey": "260310073099",
+    "maskedName": "Aditya J.",
+    "publicFlags": []
+  },
+  {
+    "id": "h239",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "SC",
+    "air": 382268,
+    "room": "F-10",
+    "block": "F",
+    "roomNo": "10",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h274"
+    ],
+    "meritKey": "260311254473",
+    "maskedName": "Atul P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h240",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "SC",
+    "air": 412698,
+    "room": "F-11",
+    "block": "F",
+    "roomNo": "11",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h275"
+    ],
+    "meritKey": null,
+    "maskedName": "Pushpraj V.",
+    "publicFlags": []
+  },
+  {
+    "id": "h241",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "SC",
+    "air": 427906,
+    "room": "F-12",
+    "block": "F",
+    "roomNo": "12",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h140"
+    ],
+    "meritKey": null,
+    "maskedName": "Piyush P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h242",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "SC",
+    "air": 445054,
+    "room": "F-13",
+    "block": "F",
+    "roomNo": "13",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h141"
+    ],
+    "meritKey": null,
+    "maskedName": "Deepak A.",
+    "publicFlags": []
+  },
+  {
+    "id": "h243",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "SC",
+    "air": 465829,
+    "room": "F-14",
+    "block": "F",
+    "roomNo": "14",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h142"
+    ],
+    "meritKey": null,
+    "maskedName": "Sanskar G.",
+    "publicFlags": []
+  },
+  {
+    "id": "h244",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "SC",
+    "air": 470370,
+    "room": "F-15",
+    "block": "F",
+    "roomNo": "15",
+    "college": "Other",
+    "jkResident": "No",
+    "roommateIds": [
+      "h143"
+    ],
+    "meritKey": null,
+    "maskedName": "Bhupendra T.",
+    "publicFlags": []
+  },
+  {
+    "id": "h245",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "SC",
+    "air": 489687,
+    "room": "F-16",
+    "block": "F",
+    "roomNo": "16",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h144"
+    ],
+    "meritKey": null,
+    "maskedName": "Prithvi R.",
+    "publicFlags": []
+  },
+  {
+    "id": "h246",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "SC",
+    "air": 493041,
+    "room": "F-17",
+    "block": "F",
+    "roomNo": "17",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h145"
+    ],
+    "meritKey": null,
+    "maskedName": "Tanish P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h247",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "SC",
+    "air": 498072,
+    "room": "F-18",
+    "block": "F",
+    "roomNo": "18",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h146"
+    ],
+    "meritKey": null,
+    "maskedName": "Kunal R.",
+    "publicFlags": []
+  },
+  {
+    "id": "h248",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "SC",
+    "air": 527378,
+    "room": "F-19",
+    "block": "F",
+    "roomNo": "19",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h147"
+    ],
+    "meritKey": null,
+    "maskedName": "Goutam M.",
+    "publicFlags": []
+  },
+  {
+    "id": "h249",
+    "course": "B.TECH",
+    "branch": "IT",
+    "category": "ST",
+    "air": 1208690,
+    "room": "F-20",
+    "block": "F",
+    "roomNo": "20",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h148"
+    ],
+    "meritKey": null,
+    "maskedName": "Punit M.",
+    "publicFlags": []
+  },
+  {
+    "id": "h250",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "OBC",
+    "air": 229635,
+    "room": "G-56",
+    "block": "G",
+    "roomNo": "56",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h215"
+    ],
+    "meritKey": null,
+    "maskedName": "Sanskar C.",
+    "publicFlags": []
+  },
+  {
+    "id": "h251",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "OBC",
+    "air": 243464,
+    "room": "G-57",
+    "block": "G",
+    "roomNo": "57",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h216"
+    ],
+    "meritKey": null,
+    "maskedName": "Sameer",
+    "publicFlags": []
+  },
+  {
+    "id": "h252",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "OBC",
+    "air": 266178,
+    "room": "G-58",
+    "block": "G",
+    "roomNo": "58",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h217"
+    ],
+    "meritKey": null,
+    "maskedName": "Devansh R.",
+    "publicFlags": []
+  },
+  {
+    "id": "h253",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "OBC",
+    "air": 274350,
+    "room": "G-59",
+    "block": "G",
+    "roomNo": "59",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h218"
+    ],
+    "meritKey": null,
+    "maskedName": "Ashish K.",
+    "publicFlags": []
+  },
+  {
+    "id": "h254",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "OBC",
+    "air": 284343,
+    "room": "G-60",
+    "block": "G",
+    "roomNo": "60",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h219"
+    ],
+    "meritKey": null,
+    "maskedName": "Veshesh P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h255",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "OBC",
+    "air": 286208,
+    "room": "G-61",
+    "block": "G",
+    "roomNo": "61",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h220"
+    ],
+    "meritKey": null,
+    "maskedName": "MOHD. M.",
+    "publicFlags": []
+  },
+  {
+    "id": "h256",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "OBC",
+    "air": 296431,
+    "room": "G-62",
+    "block": "G",
+    "roomNo": "62",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h221"
+    ],
+    "meritKey": null,
+    "maskedName": "Prince M.",
+    "publicFlags": []
+  },
+  {
+    "id": "h257",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "OBC",
+    "air": 297836,
+    "room": "G-63",
+    "block": "G",
+    "roomNo": "63",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h222"
+    ],
+    "meritKey": null,
+    "maskedName": "Vikas R.",
+    "publicFlags": []
+  },
+  {
+    "id": "h258",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "OBC",
+    "air": 319925,
+    "room": "G-64",
+    "block": "G",
+    "roomNo": "64",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h223"
+    ],
+    "meritKey": null,
+    "maskedName": "Mohit V.",
+    "publicFlags": []
+  },
+  {
+    "id": "h259",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "EWS",
+    "air": 320709,
+    "room": "G-65",
+    "block": "G",
+    "roomNo": "65",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h224"
+    ],
+    "meritKey": null,
+    "maskedName": "Dhruv P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h260",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "UR",
+    "air": 328099,
+    "room": "G-66",
+    "block": "G",
+    "roomNo": "66",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h225"
+    ],
+    "meritKey": null,
+    "maskedName": "Dhruv U.",
+    "publicFlags": []
+  },
+  {
+    "id": "h261",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "OBC",
+    "air": 341347,
+    "room": "G-67",
+    "block": "G",
+    "roomNo": "67",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h226"
+    ],
+    "meritKey": null,
+    "maskedName": "Krishna P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h262",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "EWS",
+    "air": 369676,
+    "room": "G-68",
+    "block": "G",
+    "roomNo": "68",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h227"
+    ],
+    "meritKey": null,
+    "maskedName": "Anupam P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h263",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "EWS",
+    "air": 376928,
+    "room": "G-69",
+    "block": "G",
+    "roomNo": "69",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h228"
+    ],
+    "meritKey": null,
+    "maskedName": "Ujjwal S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h264",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "OBC",
+    "air": 377554,
+    "room": "G-70",
+    "block": "G",
+    "roomNo": "70",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h229"
+    ],
+    "meritKey": null,
+    "maskedName": "Vedant S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h265",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "OBC",
+    "air": 384701,
+    "room": "F-1",
+    "block": "F",
+    "roomNo": "1",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h230"
+    ],
+    "meritKey": null,
+    "maskedName": "Rajeev B.",
+    "publicFlags": []
+  },
+  {
+    "id": "h266",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "OBC",
+    "air": 394868,
+    "room": "F-2",
+    "block": "F",
+    "roomNo": "2",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h231"
+    ],
+    "meritKey": null,
+    "maskedName": "Vivan W.",
+    "publicFlags": []
+  },
+  {
+    "id": "h267",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "OBC",
+    "air": 424982,
+    "room": "F-3",
+    "block": "F",
+    "roomNo": "3",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h232"
+    ],
+    "meritKey": null,
+    "maskedName": "Utkarsh R.",
+    "publicFlags": []
+  },
+  {
+    "id": "h268",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "OBC",
+    "air": 428822,
+    "room": "F-4",
+    "block": "F",
+    "roomNo": "4",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h233"
+    ],
+    "meritKey": null,
+    "maskedName": "Rupendra P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h269",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "SC",
+    "air": 619769,
+    "room": "F-5",
+    "block": "F",
+    "roomNo": "5",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h234"
+    ],
+    "meritKey": null,
+    "maskedName": "Krishna D.",
+    "publicFlags": []
+  },
+  {
+    "id": "h270",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "SC",
+    "air": 778278,
+    "room": "F-6",
+    "block": "F",
+    "roomNo": "6",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h235"
+    ],
+    "meritKey": null,
+    "maskedName": "Keshav P.",
+    "publicFlags": []
+  },
+  {
+    "id": "h271",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "SC",
+    "air": 830276,
+    "room": "F-7",
+    "block": "F",
+    "roomNo": "7",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h236"
+    ],
+    "meritKey": null,
+    "maskedName": "Aniket M.",
+    "publicFlags": []
+  },
+  {
+    "id": "h272",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "SC",
+    "air": 929106,
+    "room": "F-8",
+    "block": "F",
+    "roomNo": "8",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h237"
+    ],
+    "meritKey": null,
+    "maskedName": "Durgesh S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h273",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "SC",
+    "air": 950980,
+    "room": "F-9",
+    "block": "F",
+    "roomNo": "9",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h238"
+    ],
+    "meritKey": null,
+    "maskedName": "Sumit C.",
+    "publicFlags": []
+  },
+  {
+    "id": "h274",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "SC",
+    "air": 1018034,
+    "room": "F-10",
+    "block": "F",
+    "roomNo": "10",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h239"
+    ],
+    "meritKey": null,
+    "maskedName": "Priyanshu K.",
+    "publicFlags": []
+  },
+  {
+    "id": "h275",
+    "course": "B.TECH",
+    "branch": "ME",
+    "category": "SC",
+    "air": 1349499,
+    "room": "F-11",
+    "block": "F",
+    "roomNo": "11",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h240"
+    ],
+    "meritKey": null,
+    "maskedName": "Shivam A.",
+    "publicFlags": []
+  },
+  {
+    "id": "h276",
+    "course": "B.TECH",
+    "branch": "PCT",
+    "category": "UR",
+    "air": 201233,
+    "room": "G-5",
+    "block": "G",
+    "roomNo": "5",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h037"
+    ],
+    "meritKey": null,
+    "maskedName": "Khushbant",
+    "publicFlags": []
+  },
+  {
+    "id": "h277",
+    "course": "B.TECH",
+    "branch": "PCT",
+    "category": "EWS",
+    "air": 421493,
+    "room": "G-6",
+    "block": "G",
+    "roomNo": "6",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h038"
+    ],
+    "meritKey": null,
+    "maskedName": "Prince D.",
+    "publicFlags": []
+  },
+  {
+    "id": "h278",
+    "course": "B.TECH",
+    "branch": "PCT",
+    "category": "EWS",
+    "air": 457781,
+    "room": "G-7",
+    "block": "G",
+    "roomNo": "7",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h039"
+    ],
+    "meritKey": null,
+    "maskedName": "Tanish B.",
+    "publicFlags": []
+  },
+  {
+    "id": "h279",
+    "course": "B.TECH",
+    "branch": "PCT",
+    "category": "UR",
+    "air": 679707,
+    "room": "G-8",
+    "block": "G",
+    "roomNo": "8",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h040"
+    ],
+    "meritKey": null,
+    "maskedName": "Basant R.",
+    "publicFlags": []
+  },
+  {
+    "id": "h280",
+    "course": "B.TECH",
+    "branch": "PCT",
+    "category": "UR",
+    "air": 783670,
+    "room": "G-9",
+    "block": "G",
+    "roomNo": "9",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h041"
+    ],
+    "meritKey": null,
+    "maskedName": "Prince D.",
+    "publicFlags": []
+  },
+  {
+    "id": "h281",
+    "course": "B.TECH",
+    "branch": "PCT",
+    "category": "OBC",
+    "air": 814557,
+    "room": "G-10",
+    "block": "G",
+    "roomNo": "10",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h042"
+    ],
+    "meritKey": null,
+    "maskedName": "Mayank J.",
+    "publicFlags": []
+  },
+  {
+    "id": "h282",
+    "course": "B.TECH",
+    "branch": "PCT",
+    "category": "UR",
+    "air": 856529,
+    "room": "G-11",
+    "block": "G",
+    "roomNo": "11",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h043"
+    ],
+    "meritKey": null,
+    "maskedName": "Gaurav G.",
+    "publicFlags": []
+  },
+  {
+    "id": "h283",
+    "course": "B.TECH",
+    "branch": "PCT",
+    "category": "UR",
+    "air": 983429,
+    "room": "G-12",
+    "block": "G",
+    "roomNo": "12",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h044"
+    ],
+    "meritKey": null,
+    "maskedName": "Nagesh S.",
+    "publicFlags": []
+  },
+  {
+    "id": "h284",
+    "course": "B.TECH",
+    "branch": "PCT",
+    "category": "OBC",
+    "air": 1013273,
+    "room": "G-13",
+    "block": "G",
+    "roomNo": "13",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h045"
+    ],
+    "meritKey": null,
+    "maskedName": "Tushar N.",
+    "publicFlags": []
+  },
+  {
+    "id": "h285",
+    "course": "B.TECH",
+    "branch": "PCT",
+    "category": "SC",
+    "air": 1024231,
+    "room": "G-14",
+    "block": "G",
+    "roomNo": "14",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h046"
+    ],
+    "meritKey": null,
+    "maskedName": "Bharat L.",
+    "publicFlags": []
+  },
+  {
+    "id": "h286",
+    "course": "B.TECH",
+    "branch": "PCT",
+    "category": "OBC",
+    "air": 1030486,
+    "room": "G-15",
+    "block": "G",
+    "roomNo": "15",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h047"
+    ],
+    "meritKey": null,
+    "maskedName": "Piyush C.",
+    "publicFlags": []
+  },
+  {
+    "id": "h287",
+    "course": "B.TECH",
+    "branch": "PCT",
+    "category": "OBC",
+    "air": 1117810,
+    "room": "G-16",
+    "block": "G",
+    "roomNo": "16",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h048"
+    ],
+    "meritKey": null,
+    "maskedName": "Mukul C.",
+    "publicFlags": []
+  },
+  {
+    "id": "h288",
+    "course": "B.TECH",
+    "branch": "PCT",
+    "category": "All India",
+    "air": 2223676,
+    "room": "G-17",
+    "block": "G",
+    "roomNo": "17",
+    "college": "UIT",
+    "jkResident": "No",
+    "roommateIds": [
+      "h049"
+    ],
+    "meritKey": null,
+    "maskedName": "Toshak A.",
+    "publicFlags": []
+  }
+]

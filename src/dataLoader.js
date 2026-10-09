@@ -106,6 +106,7 @@ export const branchFullNames = {
   'AME': 'Automobile Engineering',
   'ARE': 'Automobile Engineering',
   'AUTO': 'Automobile Engineering',
+  'AUTOMOBILE': 'Automobile Engineering',
   'BEIL': 'Bio Engineering',
   'BM': 'Biomedical Engineering',
   'BT': 'Biotechnology',
@@ -154,5 +155,5 @@ export const branchFullNames = {
   'MECH': 'Mechanical Engineering',
   'MINING': 'Mining Engineering',
   'MTENG': 'Mechatronics Engineering',
-  'PCT': 'Paint Technology',
+  'PCT': 'PCT',
 };

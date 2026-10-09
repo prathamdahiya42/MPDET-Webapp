@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Private and secret data
+private/
+.env
+.env.*
+!.env.example
+*.cleaning-report.md

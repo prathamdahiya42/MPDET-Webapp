@@ -1,0 +1,37 @@
+:root {
+  --bg: #FFFFFF;
+  --surface: #FFF7FA;
+  --pink-50: #FFF1F6;
+  --pink-100: #FFE0EB;
+  --pink-200: #FFC4D8;
+  --pink-400: #F4709F;
+  --pink-500: #EC4C8A;
+  --pink-600: #D6246E;
+  --text: #2B1B24;
+  --muted: #7A6670;
+  --border: #F6D3E0;
+
+  /* Status Colors */
+  --safe-text: #1FA971;
+  --safe-bg: #E8F8F1;
+  --target-text: #D98A00;
+  --target-bg: #FFF6DD;
+  --reach-text: #E5484D;
+  --reach-bg: #FFECEE;
+
+  /* Shadows & Radii */
+  --radius-card: 20px;
+  --radius-pill: 9999px;
+  --radius-sm: 10px;
+  --radius-md: 14px;
+  --shadow-card: 0 8px 30px rgba(236, 76, 138, 0.12);
+  --shadow-hover: 0 12px 36px rgba(236, 76, 138, 0.18);
+  --shadow-sm: 0 2px 8px rgba(236, 76, 138, 0.08);
+
+  /* Fonts */
+  --font-heading: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-body: 'Inter', system-ui, -apple-system, sans-serif;
+
+  /* Transitions */
+  --transition: all 180ms ease-in-out;
+}
